@@ -1,0 +1,1 @@
+pip install yfinance pandas requests beautifulsoup4 newsapi-python fredapi python-dotenv pyyaml tqdm scikit-learn xgboost lightgbm shap vaderSentiment reportlab anthropic

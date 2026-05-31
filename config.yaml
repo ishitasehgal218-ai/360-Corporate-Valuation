@@ -1,0 +1,3 @@
+ticker: "AAPL"
+period: "5y"
+output_dir: "data/raw/"
