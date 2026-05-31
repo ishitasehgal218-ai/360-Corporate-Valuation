@@ -1,1 +1,10 @@
-pip install yfinance pandas requests beautifulsoup4 newsapi-python fredapi python-dotenv pyyaml tqdm scikit-learn xgboost lightgbm shap vaderSentiment reportlab anthropic
+streamlit
+yfinance
+pandas
+numpy
+plotly
+openai
+requests
+python-dotenv
+scikit-learn
+vaderSentiment
