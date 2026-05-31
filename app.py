@@ -4,7 +4,7 @@ import numpy as np
 import plotly.graph_objects as go
 import plotly.express as px
 import yfinance as yf
-import json, os, yaml, pickle
+import json, os, pickle
 from datetime import datetime, timedelta
 from openai import OpenAI
 from dotenv import load_dotenv
